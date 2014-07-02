@@ -11,6 +11,7 @@ module Middleman
         :after_build,
         :delete,
         :encryption,
+        :endpoint,
         :existing_remote_file,
         :build_dir,
         :force,
